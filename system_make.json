@@ -1,0 +1,5 @@
+{
+  "C++" : {
+    "GCC"  : ["g++ source.cpp #OPT# -o source.exe", "source"]
+  }
+}
